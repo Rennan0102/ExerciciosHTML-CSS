@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+
+div, a {
+    display: flex;
+    justify-content: center;
+}
+
+#thumb-html, #thumb-js, #thumb-hardware, #thumb-python{
+    width: 350px;
+    height: auto;
+    margin: 0 10px;
+}
+
+p{
+    text-align: center;
+}
